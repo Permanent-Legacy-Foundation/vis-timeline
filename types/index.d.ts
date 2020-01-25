@@ -294,6 +294,7 @@ export interface TimelineOptions {
   onRemoveGroup?: TimelineOptionsGroupCallbackFunction;
   order?: TimelineOptionsComparisonFunction;
   orientation?: TimelineOptionsOrientationType;
+  pixelMargin?: number;
   preferZoom?: boolean;
   rollingMode?: TimelineRollingModeOption;
   rtl?: boolean;
