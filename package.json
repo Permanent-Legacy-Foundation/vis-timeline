@@ -48,7 +48,7 @@
     "@egjs/hammerjs": "2.0.17",
     "emitter-component": "1.1.1",
     "keycharm": "^0.3.0",
-    "moment": "2.24.0",
+    "moment": "2.29.2",
     "propagating-hammerjs": "1.4.7",
     "vis-data": "6.3.3",
     "vis-util": "2.1.0"
