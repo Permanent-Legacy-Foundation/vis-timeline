@@ -71,7 +71,7 @@
     "git-authors-cli": "^1.0.18",
     "husky": "^3.0.3",
     "jsdoc": "^3.5.5",
-    "jsdom": "11.3.0",
+    "jsdom": "16.5.0",
     "jsdom-global": "^3.0.2",
     "mocha": "^5.2.0",
     "nyc": "^14.1.1",
